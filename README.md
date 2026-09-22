@@ -2,7 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Geomatics+Engineer;GIS+%26+Python+Developer;Spatial+Data+Analyst)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalrhman-musa-372216249)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hatmm2749@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdom7sa)
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdom7sa&color=blue&style=flat-square)
 
@@ -13,7 +14,7 @@
 * 🌱 **Currently learning:** Advanced spatial data processing, automation with Python, and web-based GIS development[cite: 1]
 * 👯 **Looking to collaborate on:** Open-source GIS tools, Python scripting for spatial analysis, and remote sensing projects[cite: 1]
 * 💬 **Ask me about:** QGIS, ArcGIS Pro, Python, Remote Sensing, Surveying, and Civil 3D[cite: 1]
-* 📫 **Reach me at:** Contact me directly via GitHub `@Abdom7sa`[cite: 1]
+* 📫 **Reach me at:** [hatmm2749@gmail.com](mailto:hatmm2749@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/abdalrhman-musa-372216249)[cite: 1]
 
 ---
 
