@@ -10,10 +10,11 @@
 ---
 
 ## 🧑‍💻 About Me
+* 🎓 **Education:** surveying Engineering Student at the **University of Khartoum**, Faculty of Engineering
 * 🔭 **Currently working on:** Developing a custom QGIS plugin and geospatial Digital Twin frameworks for urban infrastructure (BIM-GIS)[cite: 1]
 * 🌱 **Currently learning:** Advanced spatial data processing, automation with Python, and web-based GIS development[cite: 1]
 * 👯 **Looking to collaborate on:** Open-source GIS tools, Python scripting for spatial analysis, and remote sensing projects[cite: 1]
-* 💬 **Ask me about:** QGIS, ArcGIS Pro, Python, Remote Sensing, Surveying, and Civil 3D[cite: 1]
+* 💬 **Ask me about:** QGIS, ArcGIS Pro, Python, C++, Remote Sensing, Surveying, and Civil 3D[cite: 1]
 * 📫 **Reach me at:** [hatmm2749@gmail.com](mailto:hatmm2749@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/abdalrhman-musa-372216249)[cite: 1]
 
 ---
@@ -27,6 +28,7 @@
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Engineering & CAD Tools
