@@ -11,11 +11,11 @@
 
 ## 🧑‍💻 About Me
 * 🎓 **Education:** surveying Engineering Student at the **University of Khartoum**, Faculty of Engineering
-* 🔭 **Currently working on:** Developing a custom QGIS plugin and geospatial Digital Twin frameworks for urban infrastructure (BIM-GIS)[cite: 1]
-* 🌱 **Currently learning:** Advanced spatial data processing, automation with Python, and web-based GIS development[cite: 1]
-* 👯 **Looking to collaborate on:** Open-source GIS tools, Python scripting for spatial analysis, and remote sensing projects[cite: 1]
-* 💬 **Ask me about:** QGIS, ArcGIS Pro, Python, C++, Remote Sensing, Surveying, and Civil 3D[cite: 1]
-* 📫 **Reach me at:** [hatmm2749@gmail.com](mailto:hatmm2749@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/abdalrhman-musa-372216249)[cite: 1]
+* 🔭 **Currently working on:** Developing a custom QGIS plugin and geospatial Digital Twin frameworks for urban infrastructure (BIM-GIS)
+* 🌱 **Currently learning:** Advanced spatial data processing, automation with Python, and web-based GIS development
+* 👯 **Looking to collaborate on:** Open-source GIS tools, Python scripting for spatial analysis, and remote sensing projects
+* 💬 **Ask me about:** QGIS, ArcGIS Pro, Python, C++, Remote Sensing, Surveying, and Civil 3D
+* 📫 **Reach me at:** [hatmm2749@gmail.com](mailto:hatmm2749@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/abdalrhman-musa-372216249)
 
 ---
 
